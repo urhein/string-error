@@ -3,4 +3,9 @@ name = "string-error"
 version = "0.1.0"
 authors = ["Ulrich Rhein <ulrich@rhein.name>"]
 
+description = "A minimal rust library to create errors out of strings."
+readme = "README.md"
+license = "Apache-2.0"
+repository = "https://github.com/urhein/string-error"
+
 [dependencies]
